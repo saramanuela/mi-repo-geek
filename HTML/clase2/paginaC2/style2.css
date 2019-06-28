@@ -1,0 +1,44 @@
+#principal{
+    width: 1000px;
+    height: 87px;
+    border: 2px solid black;
+    margin: auto;
+
+}
+
+header{
+    width: 100px;
+    height: 80px;
+    border: 2px solid violet;
+
+}
+#logo{
+    width: 1000px;
+    height: 98px;
+    border: 2px solid purple;
+    float: center;
+
+}
+.principal{
+    width: 1000px;
+    height: 999px;
+    border: 2px solid saddlebrown;
+    float: center;
+    margin-top: 20px;
+    background: rgb(175, 218, 203);
+}
+.principal ul{}
+
+.principal ul li {
+    list-style: none;
+    float:center ;
+    
+}
+.principal ul li a {
+    text-decoration: none;
+    padding: 9px 7px;
+    border: 1px solid black;
+    color: white;
+    float: left;
+}
+
